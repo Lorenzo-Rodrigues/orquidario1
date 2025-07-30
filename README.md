@@ -8,6 +8,8 @@ não fiz testes unitários e nem um handler para as exceções, talvez seja o pr
 * MongoDB
 * S3
 * EC2
+* Docker
+* GitHub Actions
 
 ## O que essa aplicação faz?
 Basicamente o usuário pode cadastrar uma nova planta e anexar uma foto.
